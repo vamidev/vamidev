@@ -17,6 +17,7 @@ Xylos is a multifunctional, innovative bot on the Discord platform. If you are l
 ### Xylos Languages:
 
 Polish [100%]
+
 English [Working] - Disabled
 
 ### Contact:
